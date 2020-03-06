@@ -121,7 +121,7 @@
 		<TextType id="21" name="Text highlights" bold="0" italic="0" underline="0" clr="15718758" bkclr="-1"/>
 		<TextType id="22" name="Text highlights error" bold="1" italic="0" underline="0" clr="255" bkclr="-1"/>
 		<TextType id="30" name="Normal" dstyle="0" dbkclr="0" bold="0" italic="0" underline="0" clr="16777215" bkclr="1975331"/>
-		<TextType id="9" name="Read-only mode" dstyle="1" dbkclr="1" clr="1975331" bkclr="2434341"/>
+		<TextType id="9" name="Read-only mode" dstyle="1" dbkclr="1" clr="0"/>
 		<TextType id="31" name="Comments" dstyle="0" dbkclr="0" text="1" bold="0" italic="0" underline="0" clr="7697781" bkclr="-1">
 			<FirstChar>*</FirstChar>
 			<Conditions>
