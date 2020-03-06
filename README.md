@@ -1,5 +1,7 @@
 Tutorial on creating ABAP themes - https://blogs.sap.com/2019/04/08/build-your-own-user-experience-introducing-dark-theme-for-se80/
 
+This theme has different foreground colors for Read-only and edit mode. The pure black foreground is Read-only and the slightly lighter black is edit mode. A lot of themes you find online do not include a seperate forground for Read-only (like the OEM SAP themes).
+
 Read-only:
 
 ![Read-only](https://github.com/Tursko/ABAP-Theme/blob/master/ReadOnly.PNG)
