@@ -1,4 +1,4 @@
-This theme has different foreground colors for Read-only and edit mode. The pure black foreground is Read-only and the slightly lighter black is edit mode. A lot of themes you find online do not include a seperate forground for Read-only (like the OEM SAP themes).
+This theme has different foreground colors for 'Read-only' and 'Edit mode'. 'Read-only' has a pure black foreground and 'Edit mode' has a slightly lighter black foreground. A lot of themes you find online do not include a seperate forground for Read-only (like the OEM SAP themes), and this can sometimes be frustrating.
 
 Read-only:
 
